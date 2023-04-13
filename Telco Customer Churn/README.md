@@ -1,0 +1,1 @@
+Dataset encontrado no kaggle ('https://www.kaggle.com/datasets/blastchar/telco-customer-churn'), em que faço uma análise exploratória para observar as caracterísitcas dos dados. E no final testo alguns algoritmos de machine learning para prever se o cliente vai ou não dar churn.
